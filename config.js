@@ -9,7 +9,7 @@ const CONFIG = {
     desc: 'NgocDieu có thích anh honggg ',
     btnYes: 'Vẫn cứ là thích anh <33',
     btnNo: 'Không ! anh điên à ?',
-    btnNo: 'Phân Vân quá',
+    btnNo1: 'Phân Vân quá',
     question:'Ủa v lí do tại sao mà thích anhhh dạ ? <3',
     btnReply: 'Gửi cho anh <3',
     reply: ' Tại vì thích là thích thôiiii <33333333',
