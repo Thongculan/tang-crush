@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Hello NgocDieu Cute!',
     introDesc: `Anh có câu hỏi này
-    muốn hỏi NgocDieu nè !! 
+    muốn hỏi NgocDieu nè !!  
     Trả Lời thật nhaaaa ❤❤❤❤❤`,
     btnIntro: 'Dạaaaaa',
     btnNo: 'Ai cho mà hỏi. Xiên anh giờ',
