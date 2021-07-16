@@ -4,10 +4,12 @@ const CONFIG = {
     muốn hỏi NgocDieu nè !! 
     Trả Lời thật nhaaaa ❤❤❤❤❤`,
     btnIntro: 'Dạaaaaa',
+    btnNo: 'Ai cho mà hỏi. Xiên anh giờ',
     title: 'Anh Thích NgocDieu lắm luôn đóoo 😙',
     desc: 'NgocDieu có thích anh honggg ',
     btnYes: 'Vẫn cứ là thích anh <33',
     btnNo: 'Không ! anh điên à ?',
+    btnNo: 'Phân Vân quá',
     question:'Ủa v lí do tại sao mà thích anhhh dạ ? <3',
     btnReply: 'Gửi cho anh <3',
     reply: ' Tại vì thích là thích thôiiii <33333333',
